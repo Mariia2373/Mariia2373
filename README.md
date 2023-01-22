@@ -7,7 +7,7 @@ I am finishing my third year in the software development program at Seneca Colle
 
 ### My Skills ⚡
 
-- Programming languages: C, C++, Java, JavaFX and JavaScript
+- Programming languages: C, C++, Java and JavaScript
 - Web development: HTML, CSS, AJAX, jQuery, and JSON
 - Databases: MySQL and NoSQL (MongoDB)
 - JS frameworks: Angular, React and Node.js
