@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Mariia 
 
-I am finishing my third year in the software development program at Seneca College. 
+I am finishing my forth year in the software development program at Seneca College. 
  
-#### 🔭 I’m currently working on finding a summer internship so I can use my gained knowledge in practice. 
+#### 🔭 I’m currently working on finding an internship so I can use my gained knowledge in practice. 
 #### 🌱 I’m currently learning different ways to improve my programming skills. 
 
 ### My Skills ⚡
